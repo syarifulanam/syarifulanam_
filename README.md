@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syarifulanam" alt="syarifulanam" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel Framework** and **Java Spring Boot****
+- 🌱 I’m currently learning Laravel Framework and Java Spring Boot
 
 - ⚡ Fun fact **I think I like playing games**
 
