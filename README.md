@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syariful Anam</h1>
 <h3 align="center">A passionate Software Developer from Jakarta</h3>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syarifulanam&label=Profile%20views&color=0e75b6&style=flat" alt="syarifulanam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syarifulanam" alt="syarifulanam" /></a> </p>
